@@ -1,3 +1,3 @@
 # newssiteTT
 
-https://nansnsk.github.io/newssiteTT/main/news/index.html
+https://nansnsk.github.io/newssiteTT/
